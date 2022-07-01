@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-taxi-dashboard/static/css/main.b37a1b8e.css",
+    "main.js": "/react-taxi-dashboard/static/js/main.f7d0050a.js",
+    "static/media/profile.jpeg": "/react-taxi-dashboard/static/media/profile.2344c52c72ca7c436507.jpeg",
+    "static/media/avatarImage.jpg": "/react-taxi-dashboard/static/media/avatarImage.60a9147f5f5f826f7e73.jpg",
+    "index.html": "/react-taxi-dashboard/index.html",
+    "main.b37a1b8e.css.map": "/react-taxi-dashboard/static/css/main.b37a1b8e.css.map",
+    "main.f7d0050a.js.map": "/react-taxi-dashboard/static/js/main.f7d0050a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b37a1b8e.css",
+    "static/js/main.f7d0050a.js"
+  ]
+}
